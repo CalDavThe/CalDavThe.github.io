@@ -2272,6 +2272,15 @@ body {
 .cid-rmAPXAPuzc .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rmAVXWDQ8L {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rmAVXWDQ8L .mbr-text,
+.cid-rmAVXWDQ8L blockquote {
+  color: #767676;
+}
 .cid-rmATwQTu5M {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -2308,6 +2317,15 @@ body {
   padding-right: 1rem;
 }
 .cid-rmATwQTu5M .card .panel-body {
+  color: #767676;
+}
+.cid-rmAVX0dAMO {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rmAVX0dAMO .mbr-text,
+.cid-rmAVX0dAMO blockquote {
   color: #767676;
 }
 .cid-rmAPXAPuzc .navbar {
