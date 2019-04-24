@@ -2263,7 +2263,7 @@ body {
   color: #073b4c !important;
 }
 .cid-rmAVXWDQ8L {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
@@ -2331,6 +2331,14 @@ body {
   padding-right: 1rem;
 }
 .cid-rmATwQTu5M .card .panel-body {
+  color: #767676;
+}
+.cid-roymWXdEj8 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-roymWXdEj8 .mbr-section-subtitle {
   color: #767676;
 }
 .cid-rnUw02qGjQ {
@@ -2888,7 +2896,7 @@ body {
 }
 .cid-rnUc1GCDJG .nav-link:hover,
 .cid-rnUc1GCDJG .dropdown-item:hover {
-  color: #0f7699 !important;
+  color: #073b4c !important;
 }
 .cid-rnUlLk5EnG {
   padding-top: 120px;
